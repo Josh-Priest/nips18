@@ -1,0 +1,80 @@
+Trump2016, MAGA
+CruzCrew, Cruz
+tcot, CruzCrew
+CruzCrew, NeverTrump
+NHPrimary, SuperTuesday
+MakeAmericaGreatAgain, tcot
+MakeAmericaGreatAgain, TrumpTrain
+MakeAmericaGreatAgain, NeverTrump
+Trump2016, MakeAmericaGreatAgain
+TedCruz, SuperTuesday
+tcot, TedCruz
+TedCruz, GOP
+TedCruz, NeverTrump
+TedCruz, Cruz
+Rubio, SuperTuesday
+Rubio, tcot
+Rubio, NeverTrump
+Rubio, Cruz, GOP
+DemsInPhilly, DNCinPHL
+RNCinCLE, DNCinPHL
+TrumpTrain, Cruz, GOP
+TrumpTrain, tcot, Cruz
+Trump2016, TrumpTrain, Cruz
+GOP, TrumpTrain, NeverTrump
+Trump2016, TrumpTrain, GOP
+TrumpTrain, tcot, GOP
+TrumpTrain, tcot, NeverTrump
+Trump2016, TrumpTrain, tcot
+Trump2016, TrumpTrain, NeverTrump
+tcot, SCPrimary
+GOP, SCPrimary
+NeverTrump, SCPrimary
+SuperTuesday, SCPrimary
+Trump2016, NYPrimary
+NYPrimary, Cruz
+RNCinCLE, NYPrimary
+NYPrimary, tcot
+GOP, NYPrimary, NeverTrump
+SuperTuesday, NYPrimary, NeverTrump
+IowaCaucus, GOP
+RNCinCLE, IowaCaucus
+IowaCaucus, NeverTrump
+IowaCaucus, SuperTuesday
+1, Trump2016
+1, SuperTuesday
+1, Cruz
+1, tcot
+1, GOP
+1, NeverTrump
+tcot, FeelTheBern
+RNCinCLE, FeelTheBern
+GOP, FeelTheBern
+SuperTuesday, FeelTheBern
+NeverTrump, FeelTheBern
+Trump2016, RNCinCLE
+Trump2016, SuperTuesday
+Trump2016, Cruz, NeverTrump
+Trump2016, Cruz, GOP
+Trump2016, tcot, Cruz
+GOP, Trump2016, NeverTrump
+Trump2016, tcot, GOP
+Trump2016, tcot, NeverTrump
+RNCinCLE, tcot, NeverTrump
+tcot, Cruz, SuperTuesday
+GOP, tcot, SuperTuesday
+SuperTuesday, tcot, NeverTrump
+GOP, tcot, Cruz, NeverTrump
+RNCinCLE, Cruz
+GOP, Cruz, SuperTuesday
+SuperTuesday, Cruz, NeverTrump
+DemDebate, DemsInPhilly
+DemDebate, SuperTuesday
+DemDebate, NeverTrump
+RNCinCLE, DemDebate
+DemsInPhilly, GOP
+DemsInPhilly, SuperTuesday
+RNCinCLE, DemsInPhilly, NeverTrump
+GOP, RNCinCLE, NeverTrump
+SuperTuesday, GOP, NeverTrump
+SuperTuesday, RNCinCLE, NeverTrump

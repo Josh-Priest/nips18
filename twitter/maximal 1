@@ -1,0 +1,85 @@
+     support  \
+0   0.028642   
+1   0.029460   
+2   0.027823   
+3   0.027823   
+4   0.027823   
+5   0.027823   
+6   0.027823   
+7   0.028642   
+8   0.027823   
+9   0.027823   
+10  0.028642   
+11  0.027823   
+12  0.027823   
+13  0.027823   
+14  0.028642   
+15  0.027823   
+16  0.030278   
+17  0.027823   
+18  0.027823   
+19  0.027823   
+20  0.027823   
+21  0.028642   
+22  0.027823   
+23  0.027823   
+24  0.028642   
+25  0.027823   
+26  0.027823   
+27  0.028642   
+28  0.029460   
+29  0.029460   
+30  0.027823   
+31  0.027823   
+32  0.031097   
+33  0.028642   
+34  0.027823   
+35  0.028642   
+36  0.027823   
+37  0.028642   
+38  0.031097   
+39  0.027823   
+40  0.067103   
+
+                                                                               itemsets  
+0                                                                      (CruzSexScandal)  
+1                                                                             (Arizona)  
+2                         (BernieSanders, TedCruz, Trump, SuperTuesday, NewYorkPrimary)  
+3                                   (BernieSanders, SuperTuesday, NewYorkPrimary, Iowa)  
+4                             (CNN, BernieSanders, Trump, SuperTuesday, NewYorkPrimary)  
+5                                                     (SuperTuesday, Trump, TrumpRally)  
+6                                                 (SuperTuesday, GOPdebate, TrumpRally)  
+7        (CNN, Iowa, BernieSanders, TedCruz, Trump, SouthCarolina, SuperTuesday, Obama)  
+8          (CNN, BernieSanders, TedCruz, Trump, SouthCarolina, SuperTuesday, GOPdebate)  
+9                         (Iowa, BernieSanders, SouthCarolina, SuperTuesday, GOPdebate)  
+10  (CNN, Iowa, BernieSanders, TedCruz, Trump, SouthCarolina, SuperTuesday, MarcoRubio)  
+11                                                (TedCruz, Trump, Clinton, MarcoRubio)  
+12                                                  (Obama, Trump, Clinton, MarcoRubio)  
+13                (CNN, BernieSanders, TedCruz, Trump, SuperTuesday, MarcoRubio, Obama)  
+14                        (CNN, Iowa, BernieSanders, TedCruz, Trump, MarcoRubio, Obama)  
+15                                                           (SuperTuesday, IowaCaucus)  
+16                                                                  (IowaCaucus, Trump)  
+17                  (CNN, Iowa, BernieSanders, TedCruz, Trump, SuperTuesday, GOPdebate)  
+18                 (CNN, BernieSanders, TedCruz, Trump, SuperTuesday, GOPdebate, Obama)  
+19                             (CNN, Iowa, Clinton, BernieSanders, Trump, SuperTuesday)  
+20                                 (CNN, Clinton, BernieSanders, TedCruz, Trump, Obama)  
+21                                  (CNN, Iowa, Clinton, BernieSanders, TedCruz, Trump)  
+22                                                                         (Cruz, Iowa)  
+23                                (Clinton, Iowa, BernieSanders, TedCruz, Trump, Obama)  
+24                         (Clinton, Iowa, BernieSanders, TedCruz, Trump, SuperTuesday)  
+25                                          (Clinton, Iowa, Trump, SuperTuesday, Obama)  
+26                                              (BernieSanders, Trump, GOPdebate, Cruz)  
+27                                                               (Sanders, Trump, Cruz)  
+28                                              (SuperTuesday, Sanders, Trump, Clinton)  
+29                                                              (Obama, Sanders, Trump)  
+30                                             (BernieSanders, Sanders, Trump, Clinton)  
+31                                             (BernieSanders, TedCruz, Sanders, Trump)  
+32                                                   (TedCruz, Sanders, Trump, Clinton)  
+33                                                          (SuperTuesday, Trump, Cruz)  
+34                                                  (Obama, BernieSanders, Trump, Cruz)  
+35                                                        (Obama, TedCruz, Trump, Cruz)  
+36                                                (BernieSanders, Trump, Cruz, Clinton)  
+37                                                (BernieSanders, TedCruz, Trump, Cruz)  
+38                                                      (TedCruz, Trump, Cruz, Clinton)  
+39                                       (Clinton, TedCruz, Trump, SuperTuesday, Obama)  
+40                                                                                  (1)  

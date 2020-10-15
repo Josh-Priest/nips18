@@ -1,0 +1,68 @@
+checking <0
+0 <= checking < 200
+checking >= 200
+no checking account
+less than average duration in month
+greater than average duration in month
+no credits taken/all credits paid
+all credits at this bank paid
+existing credits paid till now
+delay in paying off in the past
+other credits existing
+loan for new car
+loan for used car
+loan for furniture
+loan for radio/tv
+loan for domestic appliance
+loan for repairs
+loan for education
+loan for retraining
+loan for business
+loan for other
+less than average credit amount
+greater than average credit amount
+savings < 100 DM
+100 <= savings < 500
+500 <= savings < 1000
+savings >= 1000
+no savings account
+unemployed
+employed < 1 year
+employed between 1 and 4 years
+employed between 4 and 7 years
+employed over 7 years
+less than average installment rate in percentage of disposable income
+greater than average installment rate in percentage of disposable income
+divorced male
+female
+single male
+married male
+no other debtors
+co-applicant debtor
+guarantor
+less than average present residence duration
+greater than average present residence duration
+has real estate
+has no real estate but has life insurance
+"has no real estate or life insurance, but has car"
+no property
+less than average age
+greater than average age
+other bank installment plan
+other store installment plan
+no other installment plan
+renting house
+owns house
+gets free housing
+less than average number of existing credits
+greater than average number of existing credits
+unemployed non-resident
+unemployed resident
+employee
+"management, self-employed, or highly qualified employee"
+less than average number of dependents
+greater than average number of dependents
+no telephone
+registered telephone owner
+foreign worker
+domestic worker

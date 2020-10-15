@@ -1,0 +1,85 @@
+     support  \
+0   0.669011   
+1   0.674873   
+2   0.679562   
+3   0.679562   
+4   0.682298   
+5   0.670574   
+6   0.670184   
+7   0.670965   
+8   0.672919   
+9   0.671747   
+10  0.670965   
+11  0.669011   
+12  0.671747   
+13  0.683470   
+14  0.672919   
+15  0.671747   
+16  0.672138   
+17  0.679953   
+18  0.676827   
+19  0.669402   
+20  0.670965   
+21  0.674482   
+22  0.675264   
+23  0.670574   
+24  0.679953   
+25  0.674482   
+26  0.675264   
+27  0.676436   
+28  0.676827   
+29  0.678390   
+30  0.675264   
+31  0.675655   
+32  0.670574   
+33  0.674873   
+34  0.677999   
+35  0.677218   
+36  0.690113   
+37  0.678781   
+38  0.685815   
+39  0.673310   
+40  0.695584   
+
+                                                                    itemsets  
+0                                                                        (1)  
+1                                                           (TedCruz, Trump)  
+2                                                      (Trump, NeverHillary)  
+3                                                    (CrookedHillary, Trump)  
+4                                                      (SuperTuesday, Trump)  
+5                                                    (MAGA, CruzCrew, Trump)  
+6                                   (Trump2016, CruzCrew, Trump, TrumpTrain)  
+7                        (Trump2016, MakeAmericaGreatAgain, CruzCrew, Trump)  
+8     (MakeAmericaGreatAgain, Trump2016, VoteTrump, MAGA, Trump, TrumpTrain)  
+9                                              (AlwaysTrump, Trump, Clinton)  
+10                                     (Trump2016, tcot, AlwaysTrump, Trump)  
+11                         (MakeAmericaGreatAgain, AlwaysTrump, Trump, Cruz)  
+12                         (Trump2016, AlwaysTrump, Cruz, Trump, TrumpTrain)  
+13  (MakeAmericaGreatAgain, Trump2016, AlwaysTrump, MAGA, Trump, TrumpTrain)  
+14                                              (NeverTrump, Trump, Clinton)  
+15                                (Trump2016, NeverTrump, Trump, TrumpTrain)  
+16                     (Trump2016, NeverTrump, MakeAmericaGreatAgain, Trump)  
+17                                                 (MAGA, Trump, NeverTrump)  
+18                                             (Trump2016, tcot, Trump, GOP)  
+19                                               (Cruz, GOP, Trump, Clinton)  
+20                                 (GOP, MakeAmericaGreatAgain, Trump, Cruz)  
+21                                 (GOP, Trump2016, Cruz, Trump, TrumpTrain)  
+22          (GOP, MakeAmericaGreatAgain, Trump2016, MAGA, Trump, TrumpTrain)  
+23                                         (GOP, TrumpTrain, Trump, Clinton)  
+24                                          (Trump2016, GOP, Trump, Clinton)  
+25                                               (GOPdebate, Trump, Clinton)  
+26                                                  (MAGA, GOPdebate, Trump)  
+27                                                  (GOPdebate, Trump, Cruz)  
+28                                 (Trump2016, GOPdebate, Trump, TrumpTrain)  
+29                      (Trump2016, GOPdebate, MakeAmericaGreatAgain, Trump)  
+30                                              (Cruz, tcot, Trump, Clinton)  
+31                                      (Trump2016, MAGA, tcot, Cruz, Trump)  
+32         (MakeAmericaGreatAgain, Trump2016, tcot, Cruz, Trump, TrumpTrain)  
+33            (MakeAmericaGreatAgain, Trump2016, Clinton, MAGA, tcot, Trump)  
+34      (MakeAmericaGreatAgain, Trump2016, Clinton, tcot, Trump, TrumpTrain)  
+35                       (Trump2016, Clinton, MAGA, tcot, Trump, TrumpTrain)  
+36         (MakeAmericaGreatAgain, Trump2016, MAGA, tcot, Trump, TrumpTrain)  
+37                                   (Trump2016, Clinton, MAGA, Cruz, Trump)  
+38         (MakeAmericaGreatAgain, Trump2016, MAGA, Cruz, Trump, TrumpTrain)  
+39      (MakeAmericaGreatAgain, Trump2016, Clinton, Cruz, Trump, TrumpTrain)  
+40      (MakeAmericaGreatAgain, Trump2016, Clinton, MAGA, Trump, TrumpTrain)  
